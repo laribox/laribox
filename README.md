@@ -15,7 +15,7 @@ A **Full Stack Developer**  and software developer based in Tanger, Morroco.
  
 
 ### **Languages and Tools:**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,vite,ts,nodejs,postgres,firebase,md,git,github,vscode,kotlin,mobile,php,laravel,stackoverflow&perline=13)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,vite,ts,nodejs,postgres,firebase,md,git,github,vscode,kotlin,androidstudio,php,laravel,stackoverflow&perline=13)](#)
 
 
 
